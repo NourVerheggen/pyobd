@@ -674,3 +674,5 @@ the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  0211
 
 app = MyApp(0)
 app.MainLoop()
+def a():
+    h = b;
